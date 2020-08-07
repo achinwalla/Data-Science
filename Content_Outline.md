@@ -8,3 +8,7 @@ Week 8 Set A - Confidence Intervals
 Week 8 Set B - Hypothesis Testing
 Week 10 - Regression and Logistic Regression
 Week 11 - Marginal and Multilevel Models
+
+
+Assignments from Applied Data Science Courses
+Week 2 - Write functions with Pandas
