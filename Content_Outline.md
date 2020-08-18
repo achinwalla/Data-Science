@@ -12,3 +12,5 @@ Week 11 - Marginal and Multilevel Models
 
 Assignments from Applied Data Science Courses
 Week 2 - Write functions with Pandas
+Week 3 - More Pandas
+Week 4 - Clean data & run a t-test
